@@ -1,0 +1,21 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.product-card {
+  border: 1px solid rgb(200,200,200);
+  padding: 15px 50px;
+  box-shadow: 0px 0px 3px rgb(150,150,150);
+  width: 120px;
+}
+
+.product-card img {
+  width : 120px;
+  height: 120px;
+  object-fit: cover;
+}
+
+.product-card p {
+  color: rgb(150,150,150)
+}

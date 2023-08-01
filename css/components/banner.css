@@ -1,0 +1,14 @@
+.banner {
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+}
+
+.banner-container {
+
+}
+
+.banner p {
+  color: rgb(150,150,150)
+}
